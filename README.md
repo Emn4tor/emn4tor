@@ -1,31 +1,25 @@
-
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Emn4tor&theme=onedark&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Emn4tor&theme=onedark&column=-1" />
 </p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emn4tor&theme=github-dark-dimmed&custom_title=Emn4tor%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-
-<br clear="both">
+---
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka+Semibold&size=30&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Python%2C+Web%2C+Skript;%F0%9F%9A%80+yellowmc.de%2Fdiscord" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka+Semibold&size=30&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Python%2C+Web%2C+Skript;%F0%9F%9A%80+yellowmc.de%2Fdiscord" alt="Typing SVG" />
+  </a>
 </div>
 
-<br clear="both">
+---
 
-<h2 align="center">📱 Socials</h2>
-
-###
-
-<br clear="both">
+<details>
+<summary><h2 align="center">📱 Socials</h2></summary>
 
 <div align="center">
-<div align="left">
   <a href="https://discord.com/users/1171276279253827754" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -44,17 +38,16 @@
   <a href="ko-fi.com/emn4tor" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
+  </a>
+  <!-- Add other social icons here -->
 </div>
 
-###
+</details>
 
-<br clear="both">
+---
 
-<h2 align="center">💻 Techstack</h2>
-
-###
-
-<br clear="both">
+<details>
+<summary><h2 align="center">💻 Techstack</h2></summary>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
@@ -80,7 +73,6 @@
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -93,20 +85,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+</details>
 
-###
+---
 
-<br clear="both">
-
-<h2 align="center">🚀 Stats</h2>
-
-###
+<details>
+<summary><h2 align="center">🚀 Stats</h2></summary>
 
 <div align="center">
   <div style="display: flex; flex-direction: row;">
     <img src="https://lanyard.cnrad.dev/api/1171276279253827754?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" style="margin-right: 20px;" />
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=0ba800&bar_color_cover=true" alt="Spotify Activity Widget"/>
+    <!-- Add other stat widgets here -->
   </div>
-  <a href="https://open.spotify.com/user/USER_NAME">
-</a>
 </div>
+
+</details>
