@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka+Semibold&size=30&duration=2500&pause=1000&color=5865F2&center=true&vCenter=true&random=true&width=435&lines=%E2%9D%A4%EF%B8%8F+Kotlin%2C+Web%2C+Python%2C+Skript;%E2%9B%8F%EF%B8%8F+Minecraft;%F0%9F%91%91+Discord+Bot+Developer;%F0%9F%9A%80+skydinse.net/discord" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka+Semibold&size=30&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Python%2C+Web%2C+Skript;%F0%9F%9A%80+yellowmc.de%2Fdiscord" alt="Typing SVG" /></a>
 </div>
 
 <br clear="both">
@@ -25,22 +25,23 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://discord.com/users/918149623133143061" target="_blank">
+<div align="left">
+  <a href="https://discord.com/users/1171276279253827754" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://youtube.com/@bypixeltv." target="_blank">
+  <a href="https://www.youtube.com/@emn4tor/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://twitch.tv/bypixeltv_live" target="_blank">
+  <a href="https://instagram.com/emn4tor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://twitch.tv/emn4tor" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="https://twitter.com/@bypixeltv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://paypal.me/bypixeltv" target="_blank">
+  <a href="https://www.paypal.com/paypalme/emn4tor" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
-  <a href="https://ko-fi.com/bypixeltv" target="_blank">
+  <a href="ko-fi.com/emn4tor" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
 </div>
@@ -106,4 +107,6 @@
     <img src="https://lanyard.cnrad.dev/api/1171276279253827754?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" style="margin-right: 20px;" />
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=f0i50m4jcbevvww0rj8uzcg6q&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=0ba800&bar_color_cover=true" alt="Spotify Activity Widget"/>
   </div>
+  <a href="https://open.spotify.com/user/USER_NAME">
+</a>
 </div>
