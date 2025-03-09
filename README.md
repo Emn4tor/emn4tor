@@ -14,9 +14,7 @@
 ---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka+Semibold&size=30&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=C%23%2C+HTML%2C+Skript;%F0%9F%9A%80+emn4tor.de%2Fdiscord" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=9A3BF7&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%8D%87+Java%2C+Python%2C+HTML%2C+Skript;%F0%9F%9A%80+yellowmc.de;%E2%9B%8F%EF%B8%8F+Minecraft+enthusiast" alt="Typing SVG" />
 </div>
 
 ---
