@@ -98,7 +98,7 @@
   <div align="center">
     <div style="display: flex; flex-direction: row;">
       <img src="https://lanyard.cnrad.dev/api/1171276279253827754?&idleMessage=Probably%20doing%20something%20else...&borderRadius=30px" alt="Discord activity" style="margin-right: 20px;" />
-      <!-- Add other stat widgets here -->
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEmn4tor&countColor=%23f47373" />
     </div>
   </div>
 
