@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emn4tor&theme=onedark&column=-1" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="emn4tor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/emn4tor?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=emn4tor&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=emn4tor&theme=dracula&hide_border=true" alt="emn4tor's GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@emn4tor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
