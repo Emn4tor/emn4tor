@@ -1,3 +1,4 @@
+Ugly bc some of these seem to just dont load sometimes
 <p align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="emn4tor's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/emn4tor?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=emn4tor&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" />
